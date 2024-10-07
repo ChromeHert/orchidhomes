@@ -1,12 +1,12 @@
 
 
 export const NAV_LINKS = [
-  { title: "How it works", url: "#" },
-  { title: "Featured", url: "#" },
-  { title: "Services", url: "#" },
-  { title: "About", url: "#" },
-  { title: "Reviews", url: "#" },
-  { title: "Faq", url: "#" },
+  { title: "How it works", url: "#works" },
+  { title: "Featured", url: "#featured" },
+  { title: "Services", url: "#services" },
+  { title: "About", url: "#about" },
+  { title: "Reviews", url: "#reviews" },
+  { title: "Faq", url: "#faq" },
 ];
 
 export const HERO = {
@@ -76,49 +76,49 @@ export const FEATURED_PROPERTIES = [
     price: 320000,
     rating: 4.7,
     reviews: 59,
-    image: "image-6.jpg",
+    image: "/image-6.jpg",
   },
   {
     name: "Rural Farmhouse",
     price: 380000,
     rating: 4.5,
     reviews: 52,
-    image: "image-7.jpg",
+    image: "/image-7.jpg",
   },
   {
     name: "Modern City Penthouse",
     price: 580000,
     rating: 4.9,
     reviews: 84,
-    image: "image-8.jpg",
+    image: "/image-8.jpg",
   },
   {
     name: "Countryside Cottage",
     price: 290000,
     rating: 4.6,
     reviews: 57,
-    image: "image-9.jpg",
+    image: "/image-9.jpg",
   },
   {
     name: "Seaside Bungalow",
     price: 410000,
     rating: 4.8,
     reviews: 72,
-    image: "image-10.jpg",
+    image: "/image-10.jpg",
   },
   {
     name: "Lakefront Cabin",
     price: 340000,
     rating: 4.7,
     reviews: 63,
-    image: "image-11.jpg",
+    image: "/image-11.jpg",
   },
   {
     name: "Historic Townhouse",
     price: 470000,
     rating: 4.8,
     reviews: 69,
-    image: "image-12.jpg",
+    image: "/image-12.jpg",
   },
 ];
 

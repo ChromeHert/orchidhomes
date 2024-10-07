@@ -48,7 +48,7 @@ const Searchform = () => {
                               Address
                           </FormLabel>
                           <FormControl>
-                              <Input placeholder="Search by Location" className="placeholder:text-neutral-750" />
+                              <Input placeholder="Search by Location" className="placeholder:text-neutral-800 bg-white" />
                           </FormControl>
                       </FormItem>
                   )

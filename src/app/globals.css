@@ -57,6 +57,16 @@
     --chart-5: 340 75% 55%
   }
 }
+
+--webkit-scrollbar {
+  background: blue
+}
+--webkit-scrollbar-track {
+  width: 15px; border-radius: 5px
+}
+--webkit-scrollbar-thumb {
+  background: blueviolet
+}
 @layer base {
   * {
     @apply border-border;
