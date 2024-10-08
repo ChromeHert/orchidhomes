@@ -1,5 +1,4 @@
 
-
 export const NAV_LINKS = [
   { title: "How it works", url: "#works" },
   { title: "Featured", url: "#featured" },
@@ -270,8 +269,8 @@ export const FAQ = [
 ];
 
 export const FOOTER = {
-  description: `Your Real Estate Company is dedicated to helping you find the perfect home. Whether you're looking to buy, sell, or rent, our team of experienced professionals is here to guide you every step of the way.`,
-  copyright: `Copyright © 2024 Real Estate. All Rights Reserved `,
+  description: `OrchidHomes is dedicated to helping you find the perfect home. Whether you're looking to buy, sell, or rent, our team of experienced professionals is here to guide you every step of the way.`,
+  copyright: ` &copy; Copyright {new Date().getFullYear()} | OrchidHomes. All Rights Reserved `,
   categories: [
     {
       name: "Buy",

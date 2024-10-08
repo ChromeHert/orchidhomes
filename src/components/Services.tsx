@@ -21,7 +21,7 @@ const Services = () => {
                     </div>
                 </div>
                 <div className="w-full lg:w-1/2">
-                    <h2 className="mt-10 text-5xl lg:text-7xl"> 
+                    <h2 className="mt-10 text-5xl lg:text-7xl">
                         We are available in over <span className='font-bold'> 30 countries</span>
                     </h2>
                     <p className="max-w-xl py-6 text-lg tracking-tighter lg:pr-20">{SERVICES_TEXT}</p>
